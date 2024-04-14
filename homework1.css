@@ -1,0 +1,29 @@
+h1, p {
+     border: solid; border-color: black;
+}
+
+body {
+    border: dashed; 
+}
+
+h1 {
+    color: orangered;
+}
+p {
+    color: aqua;
+}
+
+.highlight {
+    color: yellowgreen;
+}
+.category1 {
+    color: blueviolet;
+}
+
+.category2 {
+    color: chocolate;
+}
+
+#footer {
+    background-color: blueviolet; border-radius: 10;
+}
