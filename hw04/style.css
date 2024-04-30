@@ -1,0 +1,32 @@
+/* Color Styles */
+
+/* I decided to use a different color for background*/
+
+body {
+    background-color: #f5652c;
+}
+
+.item {
+    background-color:rgb(77, 36, 66) ;
+}
+
+h1 {
+    color:rgba(54, 5, 87, 0.5) ;
+}
+/* Font Styles */
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+h1 {
+    font-family: cursive;
+}
+/* Font Size */
+h1 {
+    font-size: 1cm;
+}
+
+button {
+    color: rgb(29, 62, 209);
+    border-color: blue;
+}
