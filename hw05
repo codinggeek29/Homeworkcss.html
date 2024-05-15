@@ -1,0 +1,29 @@
+/* Line-Height */
+body {
+    line-height: 1.6; /* Adjust as needed for comfortable spacing */
+  }
+  
+  /* Spacing Letters */
+  h1, h2, h3, p {
+    letter-spacing: 1px; /* Adjust as needed for elegance */
+  }
+  
+  /* Text Transform */
+  h1 {
+    text-transform: uppercase; /* Make headings stand out */
+  }
+  
+  /* Text Decoration */
+  a {
+    text-decoration: underline; /* Add underline to links */
+  }
+  
+  /* Text Alignment */
+  h1, h2, h3 {
+    text-align: center; /* Center headings for better structure */
+  }
+  
+  p {
+    text-align: justify; /* Justify paragraphs for a clean look */
+  }
+  
